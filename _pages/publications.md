@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: selected recent publications (2025–2026), in reverse chronological order. For the full list, see my <a href="https://scholar.google.com/citations?user=7GTqJOAAAAAJ&hl=en">Google Scholar</a>.
+description: selected publications, in reverse chronological order.
 nav: true
 nav_order: 2
 ---
@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[selected=true] %}
 
 </div>
