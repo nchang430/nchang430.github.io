@@ -6,6 +6,10 @@ heading: selected publications
 description: selected publications, in reverse chronological order.
 nav: true
 nav_order: 2
+_styles: >
+  .publications h2.bibliography {
+    color: var(--global-text-color);
+  }
 ---
 
 <!-- _pages/publications.md -->
