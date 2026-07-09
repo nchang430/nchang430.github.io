@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Research Scientist, <a href='https://www.nvidia.com/en-us/research/'>NVIDIA</a> — Spatial Intelligence Lab.
+subtitle:
 
 profile:
   align: right
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Senior Research Scientist at [NVIDIA](https://www.nvidia.com/en-us/research/), part of the Spatial Intelligence Lab. I currently work on multimodal large language models (MLLMs) — for data selection and generation, the pursuit of hallucination-free and robust MLLMs, and perception tasks more broadly.
+Hi! I am a Senior Research Scientist at NVIDIA, part of the Spatial Intelligence Lab. I currently work on multimodal large language models (MLLMs) — for data selection and generation, the pursuit of hallucination-free and robust MLLMs, and perception tasks more broadly.
 
 I received my Ph.D. from Carnegie Mellon University, where I was advised by [Martial Hebert](http://www.cs.cmu.edu/~hebert/) and [Michael Tarr](http://tarrlabwiki.cnbc.cmu.edu/index.php/Tarr). My thesis focused on computer vision and language models that operate under real-world data distributions and applications. Prior to my Ph.D., I completed my Masters at CMU, where I was advised by [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/).
 
-I was honored to be selected as an [NSF GRFP](https://www.nsfgrfp.org/) fellow in 2018.
+I was honored to be selected as an NSF GRFP fellow in 2018.
